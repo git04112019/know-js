@@ -1,6 +1,6 @@
 {
   "name": "know-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript library for sending Know transactions from the client or server",
   "main": "index.js",
   "engines": {
